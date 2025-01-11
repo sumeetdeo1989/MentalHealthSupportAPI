@@ -1,3 +1,4 @@
+using mentalhealthapi.Data;
 using mentalhealthapi.Models;
 using Microsoft.EntityFrameworkCore;
 
